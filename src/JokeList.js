@@ -84,8 +84,4 @@ const JokeList = ({numJokesToGet = 5}) => {
   );
 };
 
-// JokeList.defaultProps = {
-//   numJokesToGet: 5
-// };
-
 export default JokeList;
